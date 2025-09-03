@@ -64,5 +64,5 @@ In this project, we focused on:
 Resources
 
 MDN: CSS First Steps : https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics
-MDN: Box Model : https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model?utm_source=chatgpt.com
+MDN: Box Model : https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model
 CSS Styling Basics : https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_text?utm_source=chatgpt.com
