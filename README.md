@@ -1,11 +1,11 @@
-# 🎨 CSS Fundamentals: Selectors, Box Model & Cascade
+# CSS Fundamentals: Selectors, Box Model & Cascade
 
 This project demonstrates **CSS fundamentals** such as **selectors, specificity, inheritance, and the box model** using a simple HTML + CSS example.  
 It also includes a **visual demonstration** of the box model via Chrome DevTools before/after screenshots.
 
 ---
 
-## 🔹 Overview
+## Overview
 CSS (Cascading Style Sheets) is used to **style and layout web pages** — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations.  
 
 In this project, we focused on:
@@ -15,19 +15,19 @@ In this project, we focused on:
 
 ---
 
-## 🔹 Tasks
-- ✅ Experiment with specificities and inheritance.  
-- ✅ Visualize box model via DevTools.  
+## Tasks
+- Experiment with specificities and inheritance.  
+- Visualize box model via DevTools.  
 
 ---
 
-## 🔹 Deliverables
+## Deliverables
 1. **`style.css`** – Demonstrates selectors and box model with comments.  
 2. **Before/after screenshots** of the DevTools box model (to be added in repo).  
 
 ---
 
-## 🔹 Code Demo
+## Code Demo
 
 ### HTML
 ```html
@@ -40,7 +40,7 @@ In this project, we focused on:
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <h1>🎨 CSS Specificity & Box Model Demo</h1>
+    <h1> CSS Specificity & Box Model Demo</h1>
 
     <section class="content">
       <p>This is a normal paragraph (element selector applies here).</p>
