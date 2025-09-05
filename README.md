@@ -1,35 +1,33 @@
 # CSS Fundamentals: Selectors, Box Model & Cascade
 
-This project demonstrates **CSS fundamentals** such as **selectors, specificity, inheritance, and the box model** using a simple HTML + CSS example.  
-It also includes a **visual demonstration** of the box model via Chrome DevTools before/after screenshots.
+This project demonstrates CSS fundamentals such as selectors, specificity, inheritance, and the box model using a simple HTML + CSS example.  
+It also includes a visual demonstration of the box model via Chrome DevTools before/after screenshots.
 
----
-
-## Overview
-CSS (Cascading Style Sheets) is used to **style and layout web pages** — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations.  
+# Overview
+CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations.  
 
 In this project, we focused on:
-- **Specificity & Inheritance** → How element, class, and ID selectors interact.  
-- **Box Model** → How margin, border, padding, and content define the layout.  
-- **Cascade** → How rules are applied based on order and specificity.  
+- Specificity & Inheritance → How element, class, and ID selectors interact.  
+- Box Model → How margin, border, padding, and content define the layout.  
+- Cascade → How rules are applied based on order and specificity.  
 
 ---
 
-## Tasks
+# Tasks
 - Experiment with specificities and inheritance.  
 - Visualize box model via DevTools.  
 
 ---
 
-## Deliverables
-1. **`style.css`** – Demonstrates selectors and box model with comments.  
+# Deliverables
+1. `style.css` – Demonstrates selectors and box model with comments.  
 2. **Before/after screenshots** of the DevTools box model (to be added in repo).  
 
 ---
 
-## Code Demo
+# Code Demo
 
-### HTML
+# HTML
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -61,7 +59,7 @@ In this project, we focused on:
 </html>
 
 ```
-Resources
+# Resources
 
-MDN: CSS First Steps : https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics     
-MDN: Box Model : https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model
+- MDN: CSS First Steps : https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics     
+- MDN: Box Model : https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Box_model
